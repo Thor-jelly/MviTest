@@ -1,3 +1,3 @@
 # MviTest
 
-mvi+retrofit+协程+flow
+mvi+retrofit+协程+flow+viewbinding
